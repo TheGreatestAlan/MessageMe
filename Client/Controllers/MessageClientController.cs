@@ -29,6 +29,7 @@ namespace Client.Controllers
             return messageList;
         }
 
+        // sends message TO SERVER as client.  This exists because I'm bad with frontend stuff.
         [HttpPost]
         [Route(ClientConstants.ROUTE_SEND)]
         public HttpResponseMessage Send([FromBody] Message message)
@@ -37,6 +38,7 @@ namespace Client.Controllers
         }
 
         // POST: api/MessageClient
+        // receives messages FROM SERVER
         [HttpPost]
         public void Post([FromBody] Message message)
         {

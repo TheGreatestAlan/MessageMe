@@ -36,6 +36,7 @@ namespace MessageMe
                         if(!res.IsSuccessStatusCode)
                         {
                             clientManager.SetOffline(message.RecipientId);
+                            messageQueue.Enqueue(message);
                         }
                     }
                     else

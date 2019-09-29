@@ -8,6 +8,7 @@ namespace Client
     public class ClientConstants
     {
         public const string SERVER_BASE_ADDRESS = "http://localhost:52744";
+        //Hardcoded directory that should change.
         public const string REGISTRATION_FILENAME = "C:\\Users\\Alan.Nguyen\\workspace\\MessageMe\\MessageMe\\Client\\Registration\\ClientRegistration.json";
         public const string ROUTE_SEND = "Send";
     }

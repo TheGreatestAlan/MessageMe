@@ -21,13 +21,6 @@ namespace MessageMe.Controllers
             this.clientManager = clientManager;
         }
 
-        // GET: api/Message
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
         [HttpPost]
         [Route(MessageMeConstants.ROUTE_REGISTER)]
         public string Register([FromBody]Client client)
@@ -40,18 +33,6 @@ namespace MessageMe.Controllers
         public bool CheckIn([FromBody]Client client)
         {
             return clientManager.CheckIn(client);
-        }
-
-        // PUT: api/Client/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE: api/ApiWithActions/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
         }
     }
 }
