@@ -1,0 +1,14 @@
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\bin\Debug\netcoreapp2.2\MessageMe.deps.json
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\bin\Debug\netcoreapp2.2\MessageMe.runtimeconfig.json
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\bin\Debug\netcoreapp2.2\MessageMe.runtimeconfig.dev.json
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\bin\Debug\netcoreapp2.2\MessageMe.dll
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\bin\Debug\netcoreapp2.2\MessageMe.pdb
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\obj\Debug\netcoreapp2.2\MessageMe.csproj.CoreCompileInputs.cache
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\obj\Debug\netcoreapp2.2\MessageMe.RazorAssemblyInfo.cache
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\obj\Debug\netcoreapp2.2\MessageMe.RazorAssemblyInfo.cs
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\obj\Debug\netcoreapp2.2\MessageMe.AssemblyInfoInputs.cache
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\obj\Debug\netcoreapp2.2\MessageMe.AssemblyInfo.cs
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\obj\Debug\netcoreapp2.2\MessageMe.RazorTargetAssemblyInfo.cache
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\obj\Debug\netcoreapp2.2\MessageMe.dll
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\obj\Debug\netcoreapp2.2\MessageMe.pdb
+C:\Users\Alan.Nguyen\workspace\MessageMe\MessageMe\MessageMe\obj\Debug\netcoreapp2.2\MessageMe.csprojAssemblyReference.cache
